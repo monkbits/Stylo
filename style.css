@@ -37,7 +37,7 @@ table, tbody, thead{
     padding: 10px;
 }
 
-.dark-f{
+.dark-font{
     color: rgba(255, 255, 255, 0.553);
 }
 
@@ -63,4 +63,8 @@ table, tbody, thead{
 
 .round{
     border-radius: 20px;
+}
+
+.oneline{
+    text-wrap: nowrap;
 }
