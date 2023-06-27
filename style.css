@@ -68,3 +68,11 @@ table, tbody, thead{
 .oneline{
     text-wrap: nowrap;
 }
+
+.text-contain{
+    text-wrap: wrap;
+    padding: 20px;
+    width: 450px;
+    font-weight: 100;
+    max-width: 85dvw;
+}
